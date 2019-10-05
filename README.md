@@ -8,5 +8,13 @@
 - A public blog with tutorials, where everyone can come and make they'r own graphic tutorial
 - An app to calcualte and test resolutions, for diferent materials
 
+## Tech
+- NodeJS
+- React
+- React semantic ui
+
+Database : Firebase
+File storage : Google drive 
+
 ## Reminder - use 
 https://developers.google.com/drive/api/v3/quickstart/nodejs
